@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: DressupDeluxe
+## Notes: Adds item slots to the dressing room.
+## Version: @project-version@
+## Author: Lombra
+
+Core.lua
